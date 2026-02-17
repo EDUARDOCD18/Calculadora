@@ -29,15 +29,15 @@ body {
 }
 
 .calculadora {
-  background: var(--bg-secundario);
-  color: var(--fuente-principal);
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  width: 35rem;
-  max-width: 100%;
-  padding: 1.5rem;
-  border-radius: 1rem;
-  gap: 0.5rem;
+    background-color: #15173c;
+    color: white;
+    width: 30rem;
+    max-width: 100%;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: .5rem;
 }
 
 .pantalla {
